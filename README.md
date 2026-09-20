@@ -15,10 +15,16 @@ The framework is highly modular, bypassing standard conversational chat interfac
 
 ## 🚀 Installation
 
+Install the package directly from PyPI:
+
+```bash
+pip install policy-lens-eval
+```
+
 Ensure you have Python 3.9+ installed, then clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/yourusername/policy_lens_eval.git](https://github.com/yourusername/policy_lens_eval.git)
+git clone [https://github.com/youruser`ame/policy_lens_eval.git](https://github.com/yourusername/policy_lens_eval.git)
 cd policy_lens_eval
 pip install -r requirements.txt
 

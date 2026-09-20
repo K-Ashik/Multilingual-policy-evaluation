@@ -11,3 +11,6 @@ dependencies = [
     "sentence-transformers",
     "groq"
 ]
+
+[tool.setuptools]
+packages = ["policy_lens"]
